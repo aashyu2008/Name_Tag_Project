@@ -1,0 +1,6 @@
+basic.showString("My name is: ")
+basic.showString("Aash!")
+basic.showString("My age is: ")
+basic.showNumber(12)
+basic.showString("Favorite color: ")
+basic.showString("Blue")
